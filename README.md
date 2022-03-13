@@ -1,4 +1,4 @@
-# demographic_data_analyzer
+# Demographic Data Analyzer
 Academic Data Analysis project.
 
 ### Assignment
